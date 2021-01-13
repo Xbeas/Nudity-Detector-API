@@ -1,5 +1,5 @@
 # Nudity-Detector-API
-This is a Nudity Dectector API which takes the input as a Single url or Multiple url and returns a if the image is safe or not(in terms of NSFW content).
+This is a Nudity Detector API which takes the input as a Single URL or Multiple URL and returns an if the image is safe or not(in terms of NSFW content).
 
 ## API Usage:
   #### - For Multiple URLS
